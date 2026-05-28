@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=600&color=6366F1&center=true&vCenter=true&width=580&height=60&lines=Hi+There!+%F0%9F%91%8B+I'm+Ansal!;Data+Scientist+%26+Full+Stack+Dev+%F0%9F%A7%A0;Building+Things+That+Think+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Ansal99&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/Ansal99)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=600&color=00F5FF&center=true&vCenter=true&width=620&height=65&lines=Hi+There!+%F0%9F%91%8B+I'm+Ansal!;Data+Scientist+%26+Full+Stack+Dev+%F0%9F%A7%A0;Building+Things+That+Think+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
