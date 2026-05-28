@@ -6,19 +6,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansal-3701102b9)
-[![Instagram](https://img.shields.io/badge/Instagram-@ansal.2004-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ansal.2004)
-[![Gmail](https://img.shields.io/badge/Gmail-ansalkumar10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansalkumar10@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ansal99-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansal99)
-
-</div>
-
----
-
 ## 🧠 About Me
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=6366F1&center=false&vCenter=true&width=300&lines=import+pandas+as+pd+%F0%9F%90%8D;model.fit(X_train%2C+y_train);git+commit+-m+'fixed+everything';accuracy+%3D+0.97+%23+lets+go!" alt="code snippet" width="300"/>
